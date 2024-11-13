@@ -1,0 +1,30 @@
+[
+  {
+    "total_area": 75,
+    "rooms": 3,
+    "kitchen_area": 12,
+    "balconies": 1,
+    "metro": "Академическая"
+  },
+  {
+    "total_area": 45,
+    "rooms": 1,
+    "kitchen_area": 9,
+    "balconies": 1,
+    "metro": "Политехническая"
+  },
+  {
+    "total_area": 60,
+    "rooms": 2,
+    "kitchen_area": 10,
+    "balconies": 2,
+    "metro": "Академическая"
+  },
+  {
+    "total_area": 100,
+    "rooms": 4,
+    "kitchen_area": 15,
+    "balconies": 2,
+    "metro": "Политехническая"
+  }
+]
